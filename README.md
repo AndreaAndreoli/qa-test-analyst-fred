@@ -14,7 +14,7 @@ Using Cypress, write a front end automated script, targeting www.harveynorman.co
 
 ### Additional items
 
-This should include any checks a long the way that you deem necessary.
+This should include any checks along the way that you deem necessary.
 
 
 ### Required Output
